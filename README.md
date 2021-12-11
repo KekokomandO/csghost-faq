@@ -17,3 +17,4 @@ There are 3 possibilities:
 - VAC marked you for ban when you were NOT using CSGhost, but the actual ban was delayed. VAC often delays bans by as much as 2 weeks.
 - You were not VAC banned, but rather banned by overwatch or untrusted.
 - You somehow managed to break CSGhost and mess up the VAC bypass. If you fully restart Steam AFTER starting CSGhost, the VAC bypass will no longer be active and CSGhost will tell you.
+31
